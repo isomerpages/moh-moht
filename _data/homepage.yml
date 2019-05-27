@@ -1,0 +1,37 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/moh-logo.png
+
+# Agency logo
+agency-logo: /images/moh-logo.png
+
+# Hero Banner
+hero-title: Integrated Health Promotion
+hero-subtitle: Implementing an integrated, whole-of-ecosystem approach to health promotion within cutting edge Healthy Precincts, together with key stakeholders
+hero-banner: /images/Integrated-Health-Promotion-9808fb19707f46b41f3dd742fff5253de6163955b389fb4072098da6b186f9cb.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Future Primary Care
+    description: Initiatives to accelerate the shift of care to patients’ homes, enable better self-management, and raise care team productivity
+    url: https://yahoo.com
+  - title: Integrated General Hospital
+    description: Developing a new care model that provides more holistic inpatient care that is closely integrated with primary and community care
+    url: https://yahoo.com
+  - title: Integrated Health Promotion
+    description: To build and sustain healthy communities which actively embrace health promotion
+    url: /page-A/
+
+resources-title: In the News
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: in-the-news/

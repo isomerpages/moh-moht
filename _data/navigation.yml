@@ -1,0 +1,47 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/moht/
+  sub-links:
+  - title: MOHT
+    url: /who-we-are/moht/
+  - title: Vision of Care
+    url: /who-we-are/vision-of-care/
+  - title: Our Leadership Team
+    url: /who-we-are/leadership-team/
+- title: Our Programmes
+  url: /Our-Programmes/future-primary-care/
+  sub-links:
+  - title: Future Primary Care
+    url: /Our-Programmes/future-primary-care/
+  - title: Integrated General Hospital
+    url: /Our-Programmes/integrated-general-hospital/
+  - title: Integrated Health Promotion
+    url: /Our-Programmes/integrated-health-promotion/
+- title: Our Enabling Units
+  url: /our-enabling-units/STEP/
+  sub-links:
+  - title: STEP
+    url: /our-enabling-units/STEP/
+  - title: Data And Technology Unit
+    url: /our-enabling-units/data-and-technology-unit/
+- title: Partners And Vendors
+  url: /partners-and-vendors/partners/
+  sub-links:
+  - title: Partners
+    url: /partners-and-vendors/partners/
+  - title: Vendors
+    url: /partners-and-vendors/vendors/
+- title: In The News
+  url: /in-the-news/
+  sub-links:
+  - title: All
+    url: /in-the-news/
+  - title: News
+    url: /in-the-news/news/
+  - title: Publications
+    url: /in-the-news/publications/
